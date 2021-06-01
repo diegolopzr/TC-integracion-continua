@@ -5,3 +5,4 @@ Este trabajo es realizado por los siguientes integrantes
 
 Andres Castrillon Cod. 1811021876
 Diego Alejandro Lopez Rodirguez Cod. 1721025833 
+Edwin Giovanny Jaramillo Duarte Cod. 1821020682

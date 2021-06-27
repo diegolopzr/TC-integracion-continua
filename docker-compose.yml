@@ -1,0 +1,12 @@
+version: "1.0"
+services:
+  app:
+    build:
+      context: .
+    volumes:
+      - .:/TC-INTEGRACION-CONTINUA
+    ports:
+      - 3000:3000
+    image: app:react
+    container_name: react_container
+    command: npm start

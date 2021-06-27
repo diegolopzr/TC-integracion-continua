@@ -1,6 +1,5 @@
 import React from 'react'
-import RMDBLogo from '../images/reactMovie_logo.png';
-import TMDBLogo from '../images/tmdb_logo.svg';
+import RMDBLogo from '../images/reactMovie_logo.png'; 
 // import styled from 'styled-components'
 import {StyledHeader,StyledRMDBLogo  } from '../styles/StyledHeader' 
 import {Link} from '@reach/router'
